@@ -1,0 +1,13 @@
+package com.tns.ifet.daytwo;
+
+public class IfElseDemo {
+	public static void main(String[] args) {
+		int age=14;
+		if(age>=18)
+		System.out.println(" You are eligible for Voting");
+		else
+		System.out.println("Sorry! You need to wait more");
+		System.out.println("if else demonstration");
+		}
+
+}
