@@ -8,9 +8,6 @@ public class Person {
 		this.name = name;
 		this.address = address;
 	}
-
-	// Getter and setter methods
-
 	public String getName() {
 		return name;
 	}
