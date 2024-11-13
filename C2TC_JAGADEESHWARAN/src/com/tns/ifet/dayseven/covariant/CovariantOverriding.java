@@ -1,4 +1,4 @@
-package com.tns.ifet.dayseven.overriding.covariant;
+package com.tns.ifet.dayseven.covariant;
 class Color {
 	// method getcolor returns an object of type color
 	protected Color getColor() {
