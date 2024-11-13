@@ -1,5 +1,5 @@
 // Usage of the marker interface
-package com.tnsif.dayeight.interfaces.markerinterfaces;
+package com.tns.ifet.dayeight.interfaces.markerinterfaces;
 
 public class MarkerInterfaceDemo {
 

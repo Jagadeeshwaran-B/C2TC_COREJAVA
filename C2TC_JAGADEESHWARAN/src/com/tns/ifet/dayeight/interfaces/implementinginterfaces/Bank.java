@@ -1,5 +1,5 @@
 //Bank interface
-package com.tnsif.dayeight.interfaces.implementinginterfaces;
+package com.tns.ifet.dayeight.interfaces.implementinginterfaces;
 
 public interface Bank {
  double MIN_BALANCE = 1000;

@@ -1,6 +1,4 @@
-//Account class
-package com.tnsif.dayeight.interfaces.implementinginterfaces;
-
+package com.tns.ifet.dayeight.interfaces.implementinginterfaces;
 public class Account {
  private int accNo;
  private String name;
